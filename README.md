@@ -3,8 +3,8 @@ O sqlmap é uma ferramenta de teste de penetração de código aberto que automa
 
 # Screenshots
 ----
-
-![Screenshot](![sreles](https://github.com/Soulsfuck/Readme.md/assets/157261017/b886aa16-e94b-42b2-9a52-052a96176827.png))
+</Spam>
+![sreles](https://github.com/Soulsfuck/Readme.md/assets/157261017/b886aa16-e94b-42b2-9a52-052a96176827)
 
 # Installation
 
