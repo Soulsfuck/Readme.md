@@ -11,6 +11,20 @@ O sqlmap é uma ferramenta de teste de penetração de código aberto que automa
 Preferencialmente, você pode baixar o sqlmap clonando o repositório [Git](https://github.com/sqlmapproject/sqlmap):
 
 ```
-git clone --depth 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
+git clone  <informe o codigo>
+
 ```
+# Usage
+
+Para obter uma lista de opções e opções básicas, use:
+
+    <informe o codigo>
+
+Para obter uma lista de todas as opções e opções, use:
+
+    <informe o codigo>
+
+    
+
+    
 
