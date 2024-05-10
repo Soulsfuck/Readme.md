@@ -4,7 +4,7 @@ O sqlmap é uma ferramenta de teste de penetração de código aberto que automa
 # Screenshots
 ----
 
-![Screenshot](sreles.png)
+![Screenshot](file:///C:/Users/leona/Downloads/sreles.png)
 
 # Installation
 
