@@ -23,7 +23,8 @@ git clone  <informe o codigo>
 
 Primeiro entre no diretorio:
 
-    cd joker.py
+    cd meu-projeto
+
 
 Para inicializar a ferramenta utilize:
 
