@@ -23,11 +23,7 @@ git clone  <informe o codigo>
 
 Para obter uma lista de opções e opções básicas, use:
 
-    <informe o codigo>
-
-Para obter uma lista de todas as opções e opções, use:
-
-    <informe o codigo>
+    python3 joker.py
 
 # Link
 
