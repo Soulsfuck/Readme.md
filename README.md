@@ -8,7 +8,8 @@ Com essa funcionalidade à minha disposição, posso causar interrupções signi
 
 # Screenshots
 ----
-![sreles](https://github.com/Soulsfuck/Readme.md/assets/157261017/b886aa16-e94b-42b2-9a52-052a96176827)
+![teamo](https://github.com/Soulsfuck/Readme.md/assets/157261017/d53392b5-7246-482f-8618-20e2fe047f78)
+
 
 # Installation
 
