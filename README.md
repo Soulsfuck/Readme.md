@@ -21,9 +21,17 @@ git clone  <informe o codigo>
 ```
 # Usage
 
-Para obter uma lista de opções e opções básicas, use:
+Primeiro entre no diretorio:
+
+    cd joker.py
+
+Para inicializar a ferramenta utilize:
 
     python3 joker.py
+
+Para obter uma lista de opções e opções básicas, use:
+
+    ./joker.py -h
 
 # Link
 
