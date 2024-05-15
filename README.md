@@ -1,5 +1,10 @@
-# Name 🐉
-O sqlmap é uma ferramenta de teste de penetração de código aberto que automatiza o processo de detecção e exploração de falhas de injeção de SQL e a tomada de controle de servidores de banco de dados. Ele possui um poderoso mecanismo de detecção, muitos recursos específicos para o testador de penetração final e uma ampla gama de opções, incluindo identificação de banco de dados, recuperação de dados do banco de dados, acesso ao sistema de arquivos subjacente e execução de comandos no sistema operacional por meio de conexões fora de banda.
+# JOJO / porem hablitada em joker.py 🐉
+
+Este script é uma ferramenta poderosa que me permite realizar ataques de negação de serviço distribuído (DDoS) de forma rápida e eficiente. Com apenas alguns cliques, posso direcionar uma quantidade significativa de tráfego malicioso para um alvo específico, sobrecarregando-o e tornando-o inacessível para usuários legítimos.
+
+Utilizando a biblioteca requests, o script envia solicitações HTTP repetidas para o alvo selecionado. Essas solicitações são feitas em uma thread separada, garantindo que a interface do usuário permaneça responsiva durante o ataque. Além disso, o script incorpora um intervalo aleatório entre as solicitações, tornando o ataque ainda mais difícil de detectar e mitigar.
+
+Com essa funcionalidade à minha disposição, posso causar interrupções significativas nos serviços online de um alvo, prejudicando sua disponibilidade e impactando seus usuários. Este script me dá o poder de realizar ataques DDoS de maneira fácil e eficaz, o que pode ser usado para testes de segurança, pesquisa ou, infelizmente, para fins maliciosos.
 
 # Screenshots
 ----
