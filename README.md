@@ -11,6 +11,7 @@ Com essa funcionalidade à minha disposição, posso causar interrupções signi
 ![paginta](https://github.com/Soulsfuck/Readme.md/assets/157261017/80eae0ed-17e9-4a1a-a40b-ea58ef8e68aa)
 
 Utilize as setinhas para navegar na interface:
+
 ![iniciar](https://github.com/Soulsfuck/Readme.md/assets/157261017/ff61637f-e44d-4117-a46a-5e591f02eaab)
 
 # Installation
