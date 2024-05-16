@@ -19,7 +19,7 @@ Utilize as setinhas para navegar na interface:
 Preferencialmente, você pode baixar o sqlmap clonando o repositório [Git](https://github.com/sqlmapproject/sqlmap):
 
 ```
-git clone  <informe o codigo>
+git clone https://github.com/Soulsfuck/Readme.md.git
 
 ```
 # Usage
