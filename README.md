@@ -43,15 +43,6 @@ Nossas paginas de referencia abaixo 👇
 
 ----
 
-* Homepage: 
-* Download: 
-* Commits RSS feed: 
-* Issue tracker: 
-* User's manual: 
-* Frequently Asked Questions (FAQ): 
-* X: 
-* Demos: 
-* Screenshots: 
-
+htps://github.co/PraneethKarnena/DDoS-Scripts/tree/master/Layer-7
     
 
